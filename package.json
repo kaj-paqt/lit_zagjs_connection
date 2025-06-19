@@ -7,7 +7,16 @@
     "dev": "vite"
   },
   "dependencies": {
-    "lit": "^2.6.1"
+    "@open-wc/lit-helpers": "^0.7.0",
+    "@zag-js/checkbox": "^1.14.0",
+    "@zag-js/core": "^1.14.0",
+    "@zag-js/menu": "^1.14.0",
+    "@zag-js/react": "^1.14.0",
+    "@zag-js/slider": "^1.14.0",
+    "@zag-js/tooltip": "^1.14.0",
+    "@zag-js/types": "^1.14.0",
+    "@zag-js/utils": "^1.14.0",
+    "lit": "^2.8.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.19",
