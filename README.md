@@ -7,6 +7,6 @@ Run the development server:
 
 
 ```bash
-$ npm run dev
+$ pnpm run dev
 ```
 Open http://localhost:5173 with your browser to see the result.
