@@ -1,1 +1,1 @@
-import "./my-slider.ts";
+import "./my-checkbox.ts";

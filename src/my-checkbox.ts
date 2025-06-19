@@ -6,8 +6,8 @@ import { spread } from "@open-wc/lit-helpers";
 import { normalizeProps } from "./normalize-props";
 import { createMachine } from "@zag-js/core";
 
-@customElement("my-slider")
-export class MySlider extends LitElement {
+@customElement("my-checkbox")
+export class MyCheckbox extends LitElement {
   private service!: CustomService<any>;
 
   @state()
